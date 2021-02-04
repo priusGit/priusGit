@@ -1,4 +1,7 @@
 <h2> Welcome! Im Marcin</h2>
+
+<h3> 🔨 &nbsp;Project Im actually working on: <a href="https://github.com/priusGit/kopytko-customers ">Kopytko - warm and cozy</a></h3>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Developing new skills, while working on exciting projects.
