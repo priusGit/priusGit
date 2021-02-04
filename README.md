@@ -28,6 +28,6 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/marcin-szaro-12aa641ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marcin%20Szaro-blue?style=flat-square&logo=linkedin"></a> <a href="mailto:marcinszaro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marcinszaro@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
