@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Developing new skills, while working on exciting projects.
 - 🎓 &nbsp; Studying Computer Science at Politechnika Wrocławska.
 - 💼 &nbsp; Looking for job. Meantime helping maintaing sites.
-- 🌱 &nbsp; Right now taking short XD course. I want to be able to create mockups before I start new projects. Than I'll focus on NodeJS
+- 🌱 &nbsp; Right now taking NodeJS course.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
