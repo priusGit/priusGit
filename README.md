@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Developing new skills, while working on exciting projects.
 - 🎓 &nbsp; Studying Computer Science at Politechnika Wrocławska.
 - 💼 &nbsp; Looking for job. Meantime maintaing sites as a freelancer.
-- 🌱 &nbsp; Right now taking NodeJS course by Maximilian Schwarzmüller
+- 🌱 &nbsp; Right now learning React Native
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
