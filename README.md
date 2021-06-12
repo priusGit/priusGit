@@ -20,7 +20,7 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop) ![Premiere Pro](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro) ![XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
 - 🕒 &nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![React-Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br/>
 
 <a href="https://github.com/priusGit">
