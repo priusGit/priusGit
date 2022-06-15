@@ -6,9 +6,8 @@
 
 - 🤔 &nbsp; Developing new skills, while working on exciting projects.
 - 🎓 &nbsp; Studying Computer Science at Politechnika Wrocławska.
-- 💼 &nbsp; Looking for job. Meantime maintaing sites as a freelancer.
-- 🌱 &nbsp; Right now learning React Native
-
+- 💼 &nbsp; 07.2021-12.2021: Junior Solutions Engineer @[Northpass](https://github.com/SchoolKeep)
+            01.2022-now: Junior Frontend Engineer @[Northpass](https://github.com/SchoolKeep)
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
