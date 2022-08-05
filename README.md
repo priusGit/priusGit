@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Developing new skills, while working on exciting projects.
 - 🎓 &nbsp; Studying Computer Science at Politechnika Wrocławska.
-- 💼 &nbsp; 07.2021-12.2021: Junior Solutions Engineer @[Northpass](https://github.com/SchoolKeep)
-            01.2022-07.2022: Junior Frontend Engineer @[Northpass](https://github.com/SchoolKeep)
+- 💼 &nbsp; 07.2021-12.2021: Junior Solutions Engineer @[Northpass](https://github.com/SchoolKeep)&nbsp
+            01.2022-07.2022: Junior Frontend Engineer @[Northpass](https://github.com/SchoolKeep)&nbsp
             07.2022-now: Frontend Engineer @[Northpass](https://github.com/SchoolKeep)
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
